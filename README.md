@@ -9,4 +9,4 @@ You will be prompted for your Google Account credentials ([ClientLogin](http://c
 
 # TODO
 
-* Mode to clean up touch tags
+* Mode to clean up touch tags (once `tag/list` exposes them)
